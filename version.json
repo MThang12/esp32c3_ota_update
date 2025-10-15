@@ -1,0 +1,5 @@
+{
+  "version": "1.1.0",
+  "firmware": "https://github.com/<username>/esp32c3-ota-firmware/releases/download/v1.1.0/firmware_v1.1.0.bin",
+  "sha256": "OPTIONAL_SHA256_CHECKSUM_HEX"
+}
