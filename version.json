@@ -1,5 +1,5 @@
 {
-  "version": "2.0.2",
+  "version": "2.0.3",
   "bin_url": "https://raw.githubusercontent.com/MThang12/esp32c3_ota_update/main/esp32c3_ota_update.ino.bin",
   "sha256": "288be0665de9f2f2f5a7e62d9b3966a53066945bc78891365944d69a9801818f"
 }
